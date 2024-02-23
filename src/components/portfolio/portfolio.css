@@ -1,0 +1,15 @@
+.container {
+  background-color: white;
+  border-radius: 15px;
+  padding: 25px 25px;
+}
+.profile-picture {
+  border-radius: 10px;
+}
+.title {
+  margin-top: 10px;
+}
+.description {
+  margin-top: 10px;
+  width: 350px;
+}
